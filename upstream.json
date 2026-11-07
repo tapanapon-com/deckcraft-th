@@ -31,7 +31,25 @@
         "text": "เพิ่มป้ายชื่อให้ตัวเลือกของเอฟเฟกต์แอนิเมชัน",
         "source": "https://github.com/storytold/deckcraft/pull/1579"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.16.0",
+        "publishedAt": "2026-11-06T20:21:27Z",
+        "url": "https://github.com/storytold/deckcraft/releases/tag/v0.16.0"
+      },
+      {
+        "tag": "v0.15.1",
+        "publishedAt": "2026-11-05T01:24:47Z",
+        "url": "https://github.com/storytold/deckcraft/releases/tag/v0.15.1"
+      },
+      {
+        "tag": "v0.15.0",
+        "publishedAt": "2026-11-03T00:51:03Z",
+        "url": "https://github.com/storytold/deckcraft/releases/tag/v0.15.0"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#deckcraft"
+  "versionLog": "https://github.com/tapanapon-com/deckcraft-th/blob/main/docs/version-log.md"
 }
