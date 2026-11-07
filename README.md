@@ -79,7 +79,7 @@ DeckCraft TH is an independent Thai-edition preparation project for [DeckCraft b
 
 ### Features and workflow
 
-สร้างสไลด์ แอนิเมชัน และนำเสนองาน. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Build slides with themes, layouts, media, charts and animations, work with PPTX and present full screen. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
